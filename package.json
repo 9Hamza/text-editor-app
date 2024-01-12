@@ -1,0 +1,14 @@
+{
+  "name": "text-editor-app",
+  "version": "1.0.0",
+  "description": "This is a small text editor app served for the purpose of learning.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hamza Bahamdan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.1.1"
+  }
+}

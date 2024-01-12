@@ -1,0 +1,6 @@
+# Don't forget to `npm install` to download the packages when forking this or opening it for the first time.
+node_modules/
+.env
+*.log
+*.lock
+.DS_Store
